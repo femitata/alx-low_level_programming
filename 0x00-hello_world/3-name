@@ -1,2 +1,2 @@
 #!/bin/bash
-zsh:1: command not found: q
+gcc $CFILE -O cisfun
